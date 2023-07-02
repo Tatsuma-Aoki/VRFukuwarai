@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+"App/Fuku_Data/sharedassets0.assets.resS" filter=lfs diff=lfs merge=lfs -text
+"Assets/TextFont/ZenMaruGothic-Black SDF.asset" filter=lfs diff=lfs merge=lfs -text
